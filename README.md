@@ -1,1 +1,1 @@
-# ImageConverter-HEIC--PNG
+# ImageConverter HEIC to PNG
